@@ -1,0 +1,7 @@
+FOSDEM 2026
+Anders Roxell
+Email:
+anders.roxell@linaro.org
+GitHub/IRC:
+roxell
+/badges/badge.jpg
